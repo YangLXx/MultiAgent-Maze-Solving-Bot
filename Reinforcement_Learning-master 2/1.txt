@@ -1,0 +1,398 @@
+Initialize
+
+Goal! :  19.6  move :  84  tot_mov : 84  time : 4.13199996948 sec--
+Iteration =  1
+Goal! :  23.9  move :  54  tot_mov : 138  time : 5.87800002098 sec--
+Iteration =  2
+Goal! :  19.6  move :  82  tot_mov : 220  time : 8.62999987602 sec--
+Iteration =  3
+Goal! :  28.5  move :  18  tot_mov : 238  time : 9.27300000191 sec--
+Iteration =  4
+Goal! :  29.7  move :  12  tot_mov : 250  time : 9.632999897 sec--
+Iteration =  5
+Goal! :  28.3  move :  20  tot_mov : 270  time : 10.3250000477 sec--
+Iteration =  6
+Goal! :  26.7  move :  32  tot_mov : 302  time : 11.4079999924 sec--
+Iteration =  7
+Goal! :  29.6  move :  14  tot_mov : 316  time : 11.7920000553 sec--
+Iteration =  8
+Goal! :  29.3  move :  14  tot_mov : 330  time : 12.243999958 sec--
+Iteration =  9
+Goal! :  28.6  move :  18  tot_mov : 348  time : 12.8650000095 sec--
+Iteration =  10
+Goal! :  29.9  move :  12  tot_mov : 360  time : 13.1749999523 sec--
+Iteration =  11
+Goal! :  29.9  move :  12  tot_mov : 372  time : 13.4809999466 sec--
+Iteration =  12
+Goal! :  29.9  move :  12  tot_mov : 384  time : 13.7939999104 sec--
+Iteration =  13
+Goal! :  29.9  move :  12  tot_mov : 396  time : 14.1050000191 sec--
+Iteration =  14
+Goal! :  29.9  move :  12  tot_mov : 408  time : 14.4149999619 sec--
+Iteration =  15
+Goal! :  29.9  move :  12  tot_mov : 420  time : 14.7269999981 sec--
+Iteration =  16
+Goal! :  29.9  move :  12  tot_mov : 432  time : 15.0329999924 sec--
+Iteration =  17
+Goal! :  29.9  move :  12  tot_mov : 444  time : 15.3450000286 sec--
+Iteration =  18
+Goal! :  29.9  move :  12  tot_mov : 456  time : 15.6610000134 sec--
+Iteration =  19
+Goal! :  29.9  move :  12  tot_mov : 468  time : 15.9930000305 sec--
+Iteration =  20
+/n CHANGE MAZE  1
+Iteration =  1
+Goal! :  25.7  move :  44  tot_mov : 624  time : 20.0600001812 sec--
+Iteration =  2
+Goal! :  29.5  move :  14  tot_mov : 638  time : 20.4620001316 sec--
+Iteration =  3
+Goal! :  29.7  move :  14  tot_mov : 652  time : 20.8220000267 sec--
+Iteration =  4
+Goal! :  29.7  move :  14  tot_mov : 666  time : 21.2020001411 sec--
+Iteration =  5
+Goal! :  29.7  move :  14  tot_mov : 680  time : 21.5570001602 sec--
+Iteration =  6
+Goal! :  29.7  move :  14  tot_mov : 694  time : 21.9140000343 sec--
+Iteration =  7
+Goal! :  29.7  move :  14  tot_mov : 708  time : 22.2760000229 sec--
+Iteration =  8
+Goal! :  29.7  move :  14  tot_mov : 722  time : 22.6330001354 sec--
+Iteration =  9
+Goal! :  29.7  move :  14  tot_mov : 736  time : 22.9880001545 sec--
+Iteration =  10
+Goal! :  29.7  move :  14  tot_mov : 750  time : 23.3480000496 sec--
+Iteration =  11
+Goal! :  29.7  move :  14  tot_mov : 764  time : 23.7100000381 sec--
+Iteration =  12
+Goal! :  29.7  move :  14  tot_mov : 778  time : 24.0750000477 sec--
+Iteration =  13
+/n CHANGE MAZE  2
+Iteration =  1
+Goal! :  20.8  move :  72  tot_mov : 450  time : 17.0490000248 sec--
+Iteration =  2
+Goal! :  27.1  move :  30  tot_mov : 480  time : 18.0360000134 sec--
+Iteration =  3
+Goal! :  29.1  move :  18  tot_mov : 498  time : 18.5380001068 sec--
+Iteration =  4
+Goal! :  29.2  move :  16  tot_mov : 514  time : 19.0180001259 sec--
+Iteration =  5
+Goal! :  29.5  move :  16  tot_mov : 530  time : 19.4300000668 sec--
+Iteration =  6
+Goal! :  29.5  move :  16  tot_mov : 546  time : 19.8380000591 sec--
+Iteration =  7
+Goal! :  29.5  move :  16  tot_mov : 562  time : 20.243999958 sec--
+Iteration =  8
+Goal! :  29.5  move :  16  tot_mov : 578  time : 20.6530001163 sec--
+Iteration =  9
+Goal! :  29.5  move :  16  tot_mov : 594  time : 21.0590000153 sec--
+Iteration =  10
+Goal! :  29.5  move :  16  tot_mov : 610  time : 21.4670000076 sec--
+Iteration =  11
+Goal! :  29.5  move :  16  tot_mov : 626  time : 21.873000145 sec--
+Iteration =  12
+Goal! :  29.5  move :  16  tot_mov : 642  time : 22.2810001373 sec--
+Iteration =  13
+Goal! :  29.5  move :  16  tot_mov : 658  time : 22.6970000267 sec--
+Iteration =  14
+Goal! :  29.5  move :  16  tot_mov : 674  time : 23.1059999466 sec--
+Iteration =  15
+/n CHANGE MAZE  3
+Iteration =  1
+Goal! :  23.1  move :  60  tot_mov : 684  time : 22.7900002003 sec--
+Iteration =  2
+Goal! :  25.6  move :  34  tot_mov : 718  time : 24.1390001774 sec--
+Iteration =  3
+Goal! :  26.8  move :  30  tot_mov : 748  time : 25.2000000477 sec--
+Iteration =  4
+Goal! :  26.5  move :  30  tot_mov : 778  time : 26.3220000267 sec--
+Iteration =  5
+Goal! :  27.1  move :  28  tot_mov : 806  time : 27.2970001698 sec--
+Iteration =  6
+Goal! :  27.2  move :  30  tot_mov : 836  time : 28.246999979 sec--
+Iteration =  7
+Goal! :  29.4  move :  16  tot_mov : 852  time : 28.6790001392 sec--
+Iteration =  8
+Goal! :  28.7  move :  22  tot_mov : 874  time : 29.2790000439 sec--
+Iteration =  9
+Goal! :  29.2  move :  16  tot_mov : 890  time : 29.7570002079 sec--
+Iteration =  10
+Goal! :  29.4  move :  16  tot_mov : 906  time : 30.1909999847 sec--
+Iteration =  11
+Goal! :  29.5  move :  16  tot_mov : 922  time : 30.5940001011 sec--
+Iteration =  12
+Goal! :  29.4  move :  16  tot_mov : 938  time : 31.0240001678 sec--
+Iteration =  13
+Goal! :  29.5  move :  16  tot_mov : 954  time : 31.4240000248 sec--
+Iteration =  14
+Goal! :  29.5  move :  16  tot_mov : 970  time : 31.8259999752 sec--
+Iteration =  15
+Goal! :  29.5  move :  16  tot_mov : 986  time : 32.2520000935 sec--
+Iteration =  16
+Goal! :  29.5  move :  16  tot_mov : 1002  time : 32.6550002098 sec--
+Iteration =  17
+Goal! :  29.5  move :  16  tot_mov : 1018  time : 33.0630002022 sec--
+Iteration =  18
+Goal! :  29.5  move :  16  tot_mov : 1034  time : 33.4700000286 sec--
+Iteration =  19
+Goal! :  29.5  move :  16  tot_mov : 1050  time : 33.873000145 sec--
+Iteration =  20
+Goal! :  29.5  move :  16  tot_mov : 1066  time : 34.2980000973 sec--
+Iteration =  21
+Goal! :  29.5  move :  16  tot_mov : 1082  time : 34.7050001621 sec--
+Iteration =  22
+Goal! :  29.5  move :  16  tot_mov : 1098  time : 35.109000206 sec--
+Iteration =  23
+/n CHANGE MAZE  4
+Iteration =  1
+Goal! :  25.9  move :  34  tot_mov : 254  time : 10.8339998722 sec--
+Iteration =  2
+Goal! :  25.8  move :  38  tot_mov : 292  time : 12.125 sec--
+Iteration =  3
+Goal! :  28.4  move :  22  tot_mov : 314  time : 12.7999999523 sec--
+Iteration =  4
+Goal! :  29.0  move :  20  tot_mov : 334  time : 13.3190000057 sec--
+Iteration =  5
+Goal! :  29.1  move :  20  tot_mov : 354  time : 13.8259999752 sec--
+Iteration =  6
+Goal! :  29.1  move :  20  tot_mov : 374  time : 14.3229999542 sec--
+Iteration =  7
+Goal! :  29.1  move :  20  tot_mov : 394  time : 14.8269999027 sec--
+Iteration =  8
+Goal! :  29.1  move :  20  tot_mov : 414  time : 15.3459999561 sec--
+Iteration =  9
+Goal! :  29.1  move :  20  tot_mov : 434  time : 15.8389999866 sec--
+Iteration =  10
+Goal! :  29.1  move :  20  tot_mov : 454  time : 16.3379998207 sec--
+Iteration =  11
+Goal! :  29.1  move :  20  tot_mov : 474  time : 16.8420000076 sec--
+Iteration =  12
+Goal! :  29.1  move :  20  tot_mov : 494  time : 17.3580000401 sec--
+Iteration =  13
+Goal! :  29.1  move :  20  tot_mov : 514  time : 17.8619999886 sec--
+Iteration =  14
+Goal! :  29.1  move :  20  tot_mov : 534  time : 18.3659999371 sec--
+Iteration =  15
+/n CHANGE MAZE  5
+Iteration =  1
+Goal! :  22.1  move :  60  tot_mov : 540  time : 21.3129999638 sec--
+Iteration =  2
+Goal! :  24.7  move :  40  tot_mov : 580  time : 22.8699998856 sec--
+Iteration =  3
+Goal! :  27.1  move :  30  tot_mov : 610  time : 23.8540000916 sec--
+Iteration =  4
+Goal! :  26.6  move :  34  tot_mov : 644  time : 24.9530000687 sec--
+Iteration =  5
+Goal! :  25.8  move :  34  tot_mov : 678  time : 26.239000082 sec--
+Iteration =  6
+Goal! :  27.6  move :  26  tot_mov : 704  time : 27.0950000286 sec--
+Iteration =  7
+Goal! :  27.2  move :  36  tot_mov : 740  time : 28.0569999218 sec--
+Iteration =  8
+Goal! :  28.2  move :  26  tot_mov : 766  time : 28.7720000744 sec--
+Iteration =  9
+Goal! :  28.5  move :  24  tot_mov : 790  time : 29.4170000553 sec--
+Iteration =  10
+Goal! :  28.0  move :  28  tot_mov : 818  time : 30.1919999123 sec--
+Iteration =  11
+Goal! :  28.4  move :  26  tot_mov : 844  time : 30.8659999371 sec--
+Iteration =  12
+Goal! :  28.5  move :  24  tot_mov : 868  time : 31.5150001049 sec--
+Iteration =  13
+Goal! :  27.5  move :  32  tot_mov : 900  time : 32.4030001163 sec--
+Iteration =  14
+Goal! :  28.7  move :  24  tot_mov : 924  time : 33.0130000114 sec--
+Iteration =  15
+Goal! :  28.1  move :  26  tot_mov : 950  time : 33.7460000515 sec--
+Iteration =  16
+Goal! :  28.7  move :  24  tot_mov : 974  time : 34.3469998837 sec--
+Iteration =  17
+Goal! :  28.7  move :  24  tot_mov : 998  time : 34.9419999123 sec--
+Iteration =  18
+Goal! :  28.7  move :  24  tot_mov : 1022  time : 35.5409998894 sec--
+Iteration =  19
+Goal! :  28.7  move :  24  tot_mov : 1046  time : 36.1459999084 sec--
+Iteration =  20
+Goal! :  28.7  move :  24  tot_mov : 1070  time : 36.7320001125 sec--
+Iteration =  21
+Goal! :  28.7  move :  24  tot_mov : 1094  time : 37.3280000687 sec--
+Iteration =  22
+Goal! :  28.7  move :  24  tot_mov : 1118  time : 37.9240000248 sec--
+Iteration =  23
+Goal! :  28.7  move :  24  tot_mov : 1142  time : 38.5179998875 sec--
+Iteration =  24
+Goal! :  28.7  move :  24  tot_mov : 1166  time : 39.1319999695 sec--
+Iteration =  25
+Goal! :  28.7  move :  24  tot_mov : 1190  time : 39.7209999561 sec--
+Iteration =  26
+/n CHANGE MAZE  0
+Goal! :  21.6  move :  72  tot_mov : 72  time : 2.29200005531 sec--
+Iteration =  1
+Goal! :  29.0  move :  18  tot_mov : 90  time : 2.81200003624 sec--
+Iteration =  2
+Goal! :  27.9  move :  26  tot_mov : 116  time : 3.60000014305 sec--
+Iteration =  3
+Goal! :  26.6  move :  36  tot_mov : 152  time : 4.69200015068 sec--
+Iteration =  4
+Goal! :  29.7  move :  12  tot_mov : 164  time : 5.0529999733 sec--
+Iteration =  5
+Goal! :  29.9  move :  12  tot_mov : 176  time : 5.36500000954 sec--
+Iteration =  6
+Goal! :  29.9  move :  12  tot_mov : 188  time : 5.67700004578 sec--
+Iteration =  7
+Goal! :  29.9  move :  12  tot_mov : 200  time : 5.98399996758 sec--
+Iteration =  8
+Goal! :  29.9  move :  12  tot_mov : 212  time : 6.30400013924 sec--
+Iteration =  9
+Goal! :  29.9  move :  12  tot_mov : 224  time : 6.61599993706 sec--
+Iteration =  10
+Goal! :  29.9  move :  12  tot_mov : 236  time : 6.92700004578 sec--
+Iteration =  11
+Goal! :  29.9  move :  12  tot_mov : 248  time : 7.23600006104 sec--
+Iteration =  12
+Goal! :  29.9  move :  12  tot_mov : 260  time : 7.5490000248 sec--
+Iteration =  13
+Goal! :  29.9  move :  12  tot_mov : 272  time : 7.86100006104 sec--
+Iteration =  14
+Goal! :  29.9  move :  12  tot_mov : 284  time : 8.17300009727 sec--
+Iteration =  15
+/n CHANGE MAZE  1
+Iteration =  1
+Goal! :  27.6  move :  28  tot_mov : 954  time : 29.8529999256 sec--
+Iteration =  2
+Goal! :  28.9  move :  20  tot_mov : 974  time : 30.4110000134 sec--
+Iteration =  3
+Goal! :  28.3  move :  24  tot_mov : 998  time : 31.1050000191 sec--
+Iteration =  4
+Goal! :  23.3  move :  66  tot_mov : 1064  time : 33.0009999275 sec--
+Iteration =  5
+Goal! :  29.3  move :  16  tot_mov : 1080  time : 33.4509999752 sec--
+Iteration =  6
+Goal! :  29.7  move :  14  tot_mov : 1094  time : 33.8050000668 sec--
+Iteration =  7
+Goal! :  29.7  move :  14  tot_mov : 1108  time : 34.1629998684 sec--
+Iteration =  8
+Goal! :  29.7  move :  14  tot_mov : 1122  time : 34.5230000019 sec--
+Iteration =  9
+Goal! :  29.7  move :  14  tot_mov : 1136  time : 34.876999855 sec--
+Iteration =  10
+Goal! :  29.7  move :  14  tot_mov : 1150  time : 35.236000061 sec--
+Iteration =  11
+Goal! :  29.7  move :  14  tot_mov : 1164  time : 35.5959999561 sec--
+Iteration =  12
+Goal! :  29.7  move :  14  tot_mov : 1178  time : 35.9570000172 sec--
+Iteration =  13
+Goal! :  29.7  move :  14  tot_mov : 1192  time : 36.3289999962 sec--
+Iteration =  14
+Goal! :  29.7  move :  14  tot_mov : 1206  time : 36.6759998798 sec--
+Iteration =  15
+Goal! :  29.7  move :  14  tot_mov : 1220  time : 37.0339999199 sec--
+Iteration =  16
+/n CHANGE MAZE  2
+Iteration =  1
+Goal! :  20.9  move :  62  tot_mov : 488  time : 18.3329999447 sec--
+Iteration =  2
+Goal! :  26.9  move :  26  tot_mov : 514  time : 19.361000061 sec--
+Iteration =  3
+Goal! :  27.0  move :  36  tot_mov : 550  time : 20.3880000114 sec--
+Iteration =  4
+Goal! :  28.2  move :  24  tot_mov : 574  time : 21.1019999981 sec--
+Iteration =  5
+Goal! :  27.7  move :  22  tot_mov : 596  time : 21.9349999428 sec--
+Iteration =  6
+Goal! :  28.5  move :  20  tot_mov : 616  time : 22.5920000076 sec--
+Iteration =  7
+Goal! :  29.3  move :  16  tot_mov : 632  time : 23.0339999199 sec--
+Iteration =  8
+Goal! :  28.4  move :  20  tot_mov : 652  time : 23.6919999123 sec--
+Iteration =  9
+Goal! :  29.5  move :  16  tot_mov : 668  time : 24.0980000496 sec--
+Iteration =  10
+Goal! :  29.5  move :  16  tot_mov : 684  time : 24.5009999275 sec--
+Iteration =  11
+Goal! :  29.5  move :  16  tot_mov : 700  time : 24.9049999714 sec--
+Iteration =  12
+Goal! :  29.5  move :  16  tot_mov : 716  time : 25.3129999638 sec--
+Iteration =  13
+Goal! :  29.5  move :  16  tot_mov : 732  time : 25.7209999561 sec--
+Iteration =  14
+Goal! :  29.5  move :  16  tot_mov : 748  time : 26.128000021 sec--
+Iteration =  15
+Goal! :  29.5  move :  16  tot_mov : 764  time : 26.5310001373 sec--
+Iteration =  16
+Goal! :  29.5  move :  16  tot_mov : 780  time : 26.9430000782 sec--
+Iteration =  17
+Goal! :  29.5  move :  16  tot_mov : 796  time : 27.3489999771 sec--
+Iteration =  18
+Goal! :  29.5  move :  16  tot_mov : 812  time : 27.7539999485 sec--
+Iteration =  19
+/n CHANGE MAZE  3
+Iteration =  1
+Goal! :  16.1  move :  94  tot_mov : 1194  time : 40.6750001907 sec--
+Iteration =  2
+Goal! :  25.0  move :  46  tot_mov : 1240  time : 42.1710000038 sec--
+Iteration =  3
+Goal! :  25.8  move :  40  tot_mov : 1280  time : 43.478000164 sec--
+Iteration =  4
+Goal! :  28.8  move :  18  tot_mov : 1298  time : 44.0570001602 sec--
+Iteration =  5
+Goal! :  28.2  move :  24  tot_mov : 1322  time : 44.7640001774 sec--
+Iteration =  6
+Goal! :  29.3  move :  16  tot_mov : 1338  time : 45.2170000076 sec--
+Iteration =  7
+Goal! :  29.1  move :  18  tot_mov : 1356  time : 45.7180001736 sec--
+Iteration =  8
+Goal! :  29.3  move :  16  tot_mov : 1372  time : 46.1779999733 sec--
+Iteration =  9
+Goal! :  29.4  move :  16  tot_mov : 1388  time : 46.6070001125 sec--
+Iteration =  10
+Goal! :  29.5  move :  16  tot_mov : 1404  time : 47.0120000839 sec--
+Iteration =  11
+Goal! :  29.5  move :  16  tot_mov : 1420  time : 47.4190001488 sec--
+Iteration =  12
+Goal! :  29.5  move :  16  tot_mov : 1436  time : 47.8200001717 sec--
+Iteration =  13
+Goal! :  29.5  move :  16  tot_mov : 1452  time : 48.228000164 sec--
+Iteration =  14
+Goal! :  29.5  move :  16  tot_mov : 1468  time : 48.6360001564 sec--
+Iteration =  15
+Goal! :  29.5  move :  16  tot_mov : 1484  time : 49.0410001278 sec--
+Iteration =  16
+Goal! :  29.5  move :  16  tot_mov : 1500  time : 49.4470000267 sec--
+Iteration =  17
+Goal! :  29.5  move :  16  tot_mov : 1516  time : 49.8760001659 sec--
+Iteration =  18
+Goal! :  29.5  move :  16  tot_mov : 1532  time : 50.2840001583 sec--
+Iteration =  19
+Goal! :  29.5  move :  16  tot_mov : 1548  time : 50.6870000362 sec--
+Iteration =  20
+/n CHANGE MAZE  4
+Goal! :  6.3  move :  160  tot_mov : 160  time : 5.91600012779 sec--
+Iteration =  1
+Goal! :  27.2  move :  30  tot_mov : 190  time : 6.87300014496 sec--
+Iteration =  2
+Goal! :  28.1  move :  22  tot_mov : 212  time : 7.60899996758 sec--
+Iteration =  3
+Goal! :  28.8  move :  22  tot_mov : 234  time : 8.18200016022 sec--
+Iteration =  4
+Goal! :  29.1  move :  20  tot_mov : 254  time : 8.68799996376 sec--
+Iteration =  5
+Goal! :  28.9  move :  20  tot_mov : 274  time : 9.23099994659 sec--
+Iteration =  6
+Goal! :  29.0  move :  20  tot_mov : 294  time : 9.75500011444 sec--
+Iteration =  7
+Goal! :  29.1  move :  20  tot_mov : 314  time : 10.2569999695 sec--
+Iteration =  8
+Goal! :  29.1  move :  20  tot_mov : 334  time : 10.753000021 sec--
+Iteration =  9
+Goal! :  29.1  move :  20  tot_mov : 354  time : 11.2599999905 sec--
+Iteration =  10
+Goal! :  29.1  move :  20  tot_mov : 374  time : 11.7769999504 sec--
+Iteration =  11
+Goal! :  29.1  move :  20  tot_mov : 394  time : 12.2810001373 sec--
+Iteration =  12
+Goal! :  29.1  move :  20  tot_mov : 414  time : 12.7799999714 sec--
+Iteration =  13
+Goal! :  29.1  move :  20  tot_mov : 434  time : 13.2840001583 sec--
+Iteration =  14
+Goal! :  29.0  move :  20  tot_mov : 454  time : 13.8040001392 sec--
+Iteration =  15
